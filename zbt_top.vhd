@@ -12,16 +12,17 @@
 --          with the one on the ML506 board (ISSI IS61NLP 256kx36 ZBT SRAM)
 --
 --
--- LICENSE TERMS: GNU GENERAL PUBLIC LICENSE Version 3
+-- LICENSE TERMS: (CCPL) Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported.
+--          http://creativecommons.org/licenses/by-nc-sa/3.0/
 --
 --     That is you may use it only in NON-COMMERCIAL projects.
---     You are only required to include in the copyrights/about section 
---     that your system contains a "ZBT SRAM Controller (C) Victor Lopez Lorenzo under GPL license"
+--     You are required to include in the copyrights/about section 
+--     that your system contains a "ZBT SRAM Controller (C) Victor Lopez Lorenzo under CCPL license"
 --     This holds also in the case where you modify the core, as the resulting core
 --     would be a derived work.
 --     Also, we would like to know if you use this core in a project of yours, just an email will do.
 --
---    Please take good note of the disclaimer section of the GPL license, as we don't
+--    Please take good note of the disclaimer section of the CCPL license, as we don't
 --    take any responsability for anything that this core does.
 ----------------------------------------------------------------------------------
 
